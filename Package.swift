@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Bindings",
-            url: "https://github.com/thisisommore/xxdk-spm/releases/download/0.0.3/Bindings.xcframework.zip",
-            checksum: "650ff8a9fcac5dbef65e43ab9ad53a780ab4e45561a472ac7a3ff0067406b2d7"
+            url: "https://github.com/thisisommore/xxdk-spm/releases/download/0.0.4/Bindings.xcframework.zip",
+            checksum: "4dbb63c11521e5765889d1ed9f78b76a04433ed72c1ee7f403a778a0953b3119"
         ),
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
